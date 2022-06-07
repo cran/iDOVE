@@ -1,4 +1,4 @@
-75f97aef37d2c23bf5594d9488fca2bc *DESCRIPTION
+b540e3119a5fc96dbd91bf4fc4b4a174 *DESCRIPTION
 31cbcc184250f2fc770db03882e8dce0 *NAMESPACE
 af05cc1908af7d9dfbca9366fa605954 *NEWS
 50166cfad14f18954857c8d6e0908bec *R/EMmeth.R
@@ -12,11 +12,11 @@ f8cabf64ceba93abf91395a78cbb5368 *R/intCens.R
 29564ddbf938d3ee169bd3bc8ee7135e *R/postProcess.R
 176535331cf8512394697403853271cc *R/print.iDOVE.R
 2c577087aaedd2098bddc646453a0151 *R/verifyInputs.R
-ae0c37d6ec76bce3acf312ad99918aa4 *build/vignette.rds
+ae4ef21103f2e0de3fcebaebaeda0ef6 *build/vignette.rds
 0fbb4740dd0899d56ab62cb391d6e235 *data/idoveData.RData
-c6caf028760bfdd469e0a0780ef36907 *inst/doc/iDOVE_vignette.R
+eabbd4f3efe006d777b7fcf9690ea9fe *inst/doc/iDOVE_vignette.R
 3bb624cb54b5adf1b5eda13a4ef34b75 *inst/doc/iDOVE_vignette.Rmd
-5d8fb4d0bafc1a8590b61c2703eb25cc *inst/doc/iDOVE_vignette.pdf
+958db55d2269c97820c831fc866d444c *inst/doc/iDOVE_vignette.pdf
 1c37ad9cf7d0e02f139cfb83bf3811f6 *man/idove.Rd
 ed34c2ee3f036d3e0499fdce1a63844c *man/idoveData.Rd
 6ecfae5d31cac46e99685b762cfceefe *man/intCens.Rd
