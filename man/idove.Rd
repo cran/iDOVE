@@ -135,6 +135,9 @@ The special case of right-censored data is implemented by dove2() in the
   DOVE package available through CRAN.
 }
 \examples{
+\dontshow{
+  RcppArmadillo::armadillo_throttle_cores(2)
+}
 data(idoveData)
 
 set.seed(1234)

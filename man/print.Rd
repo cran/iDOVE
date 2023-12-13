@@ -19,6 +19,9 @@ No return value, called to display key results.
 Print the primary results of an idove() analysis.
 }
 \examples{
+\dontshow{
+  RcppArmadillo::armadillo_throttle_cores(2)
+}
 
 data(idoveData)
 

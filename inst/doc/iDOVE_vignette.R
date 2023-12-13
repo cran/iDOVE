@@ -1,5 +1,6 @@
 ## ----setup, include=FALSE-----------------------------------------------------
 knitr::opts_chunk$set(echo = TRUE)
+RcppArmadillo::armadillo_throttle_cores(2)
 opt <- options()
 options(continue="  ", width=70, prompt=" ")
 on.exit(options(opt))

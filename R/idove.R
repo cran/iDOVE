@@ -129,8 +129,12 @@
 #' 
 #' @include EMmeth.R verifyInputs.R
 #' @import Rcpp
+#' @importFrom RcppArmadillo armadillo_throttle_cores
 #' 
 #' @examples
+#' \dontshow{
+#'   RcppArmadillo::armadillo_throttle_cores(2)
+#' }
 #' data(idoveData)
 #'
 #' set.seed(1234)

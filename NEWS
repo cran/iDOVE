@@ -1,3 +1,18 @@
+iDOVE v1.5 (Release date: 2023-12-13)
+==============
+
+Changes:
+
+* Removed C++11
+* Added throttle of threads for examples and vignette
+
+iDOVE v1.4 (Release date: 2022-06-05)
+==============
+
+Changes:
+
+* Maintainer address change.
+
 iDOVE v1.3 (Release date: 2021-09-14)
 ==============
 
